@@ -25,7 +25,7 @@ Player.defaultProps = {
   nationality: "Non spécifié",
   jerseyNumber: 0,
   age: 0,
-  imageUrl: "https://via.placeholder.com/150",
+  imageUrl: "",
 };
 
 export default Player;

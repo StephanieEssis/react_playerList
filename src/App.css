@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+body {
+  background-color: #96a0fb; /* Une couleur sombre pour un effet classe */
+  color: rgb(17, 31, 63); /* Pour améliorer la lisibilité du texte */
+}
 
 .App-logo {
   height: 40vmin;
